@@ -20,7 +20,7 @@ The **Interactive Finance Tracker** is a command-line, terminal-based applicatio
    - Computes the total income recorded in the financial log.
 
 4. **Calculate Income Within a Date Range**
-   - Calculates the total income in given time intercal.
+   - Calculates the total income in given time interval.
 
 5. **Calculate Total Expenses**
    - Computes the total expenses recorded in the financial log.
@@ -117,8 +117,10 @@ The **Interactive Finance Tracker** is a command-line, terminal-based applicatio
 
 7. **balance**
    - Displays the current balance.
+     
 8. **help**
    - Displays all available commands.
+  
 9. **exit**
    - Exits the program.
 
