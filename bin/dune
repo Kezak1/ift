@@ -1,0 +1,4 @@
+(executable
+ (public_name financial_log_analyzer)
+ (name main)
+ (libraries financial_log_analyzer))

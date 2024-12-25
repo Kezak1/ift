@@ -1,0 +1,4 @@
+(lang dune 3.17)
+(name financial_log_analyzer)
+(sections (lib .) (bin ../../bin))
+(files (lib (META dune-package opam)) (bin (financial_log_analyzer main.exe)))
