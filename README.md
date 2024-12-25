@@ -36,8 +36,8 @@ The **Interactive Finance Tracker** is a command-line, terminal-based applicatio
 ## **Setup**
 
 1. **Prerequisites**
-   - Install **OCaml** on your system:
-     - Follow [this guide](https://cs3110.github.io/textbook/chapters/preface/install.html) for installation instructions.
+   - Install **OCaml** on your system if not installed already:
+     - Recomment to follow [this guide](https://cs3110.github.io/textbook/chapters/preface/install.html) for installation instructions.
    - Install the **Csv** library for OCaml:
      ```bash
      opam install csv
