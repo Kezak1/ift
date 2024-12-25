@@ -1,0 +1,12 @@
+lib: [
+  "_build/install/default/lib/IFT/META"
+  "_build/install/default/lib/IFT/dune-package"
+  "_build/install/default/lib/IFT/opam"
+]
+bin: [
+  "_build/install/default/bin/IFT"
+  "_build/install/default/bin/main.exe"
+]
+doc: [
+  "_build/install/default/doc/IFT/README.md"
+]

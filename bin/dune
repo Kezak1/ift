@@ -1,4 +1,4 @@
 (executable
- (public_name financial_log_analyzer)
+ (public_name IFT)
  (name main)
- (libraries financial_log_analyzer))
+ (libraries IFT))

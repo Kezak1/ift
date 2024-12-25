@@ -82,15 +82,15 @@ let rec main_loop logs =
       - history_range <start_date> <end_date>\n\
       - expenses\n\
       - expenses_range <start_date> <end_date>\n\
-      - balance\n\
       - income\n\
       - income_range <start_date> <end_date>\n\
+      - balance\n\
       - exit";
     process_command logs command;
     main_loop logs;
   )
 let () =
-  let logs = read_csv "large_financial_logs.csv" in
+  let logs = read_csv "large_logs.csv" in
   Printf.printf "WELCOME TO IDT!\n";
   Printf.printf "enter a command (type 'help' for a list of available commands):\n";
   main_loop logs

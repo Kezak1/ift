@@ -1,2 +1,2 @@
 (test
- (name test_financial_log_analyzer))
+ (name test_IFT))

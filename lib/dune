@@ -1,2 +1,2 @@
 (library
- (name financial_log_analyzer))
+ (name IFT))
