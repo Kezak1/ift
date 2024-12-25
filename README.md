@@ -68,6 +68,9 @@ The **Interactive Finance Tracker** is a command-line, terminal-based applicatio
    - Ensure your CSV file follows this structure:
      ```csv
      date,category,income_expense,amount
+     ```
+     e.g.
+     ```csv
      2023-01-01,Salary,income,5000
      2023-01-05,Groceries,expense,-150
      2023-01-10,Utilities,expense,-100
