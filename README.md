@@ -101,24 +101,24 @@ The **Interactive Finance Tracker** is a command-line, terminal-based applicatio
    - Displays all financial transactions in chronological order.
 
 2. **history_range <start_date> <end_date>**
-   - Displays transactions occurring within the specified date range.
+   - Displays transactions occurring within given time interval.
 
 3. **expenses**
    - Displays the total expenses.
 
 4. **expenses_range <start_date> <end_date>**
-   - Displays the total expenses within the specified date range.
+   - Displays the total expenses within given time interval.
 
 5. **income**
    - Displays the total income.
 
 6. **income_range <start_date> <end_date>**
-   - Displays the total income within the specified date range.
+   - Displays the total income within given time interval.
 
 7. **balance**
    - Displays the current balance.
 8. **help**
-   - Displays all avaible commands.
+   - Displays all available commands.
 9. **exit**
    - Exits the program.
 
