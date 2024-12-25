@@ -117,6 +117,10 @@ The **Interactive Finance Tracker** is a command-line, terminal-based applicatio
 
 7. **balance**
    - Displays the current balance.
+8. **help**
+   - Displays all avaible commands.
+9. **exit**
+   - Exits the program.
 
 ### Note:
 - Date format does not have to be strictly YYYY-MM-DD.
