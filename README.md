@@ -82,7 +82,7 @@ The **Interactive Finance Tracker** is a command-line, terminal-based applicatio
 3. **Interact Using Commands**
    - Example interaction:
      ```
-     WELCOME TO IDT!
+     WELCOME TO IFT!
      Enter a command (type 'help' for a list of available commands):
      > history
      2023-01-01: Salary (income) -> 5000.00
