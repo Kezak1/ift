@@ -20,7 +20,7 @@ The **Interactive Finance Tracker** is a command-line, terminal-based applicatio
    - Computes the total income recorded in the financial log.
 
 4. **Calculate Income Within a Date Range**
-   - Calculates the total income in given time intercal.
+   - Calculates the total income in given time interval.
 
 5. **Calculate Total Expenses**
    - Computes the total expenses recorded in the financial log.
@@ -36,8 +36,8 @@ The **Interactive Finance Tracker** is a command-line, terminal-based applicatio
 ## **Setup**
 
 1. **Prerequisites**
-   - Install **OCaml** on your system:
-     - Follow [this guide](https://cs3110.github.io/textbook/chapters/preface/install.html) for installation instructions.
+   - Install **OCaml** on your system if not installed already:
+     - Recomment to follow [this guide](https://cs3110.github.io/textbook/chapters/preface/install.html) for installation instructions.
    - Install the **Csv** library for OCaml:
      ```bash
      opam install csv
@@ -46,8 +46,8 @@ The **Interactive Finance Tracker** is a command-line, terminal-based applicatio
 2. **Clone the Repository**
    - Clone the repository containing the source code:
      ```bash
-     git clone https://github.com/Kezak1/Interactive-Finance-Analyzer.git
-     cd Interactive-Finance-Analyzer
+     git clone https://github.com/Kezak1/Interactive-Finance-Tracker.git
+     cd Interactive-Finance-Tracker
      ```
 
 3. **Build the Project**
@@ -68,6 +68,9 @@ The **Interactive Finance Tracker** is a command-line, terminal-based applicatio
    - Ensure your CSV file follows this structure:
      ```csv
      date,category,income_expense,amount
+     ```
+     e.g.
+     ```csv
      2023-01-01,Salary,income,5000
      2023-01-05,Groceries,expense,-150
      2023-01-10,Utilities,expense,-100
@@ -98,22 +101,28 @@ The **Interactive Finance Tracker** is a command-line, terminal-based applicatio
    - Displays all financial transactions in chronological order.
 
 2. **history_range <start_date> <end_date>**
-   - Displays transactions occurring within the specified date range.
+   - Displays transactions occurring within given time interval.
 
 3. **expenses**
    - Displays the total expenses.
 
 4. **expenses_range <start_date> <end_date>**
-   - Displays the total expenses within the specified date range.
+   - Displays the total expenses within given time interval.
 
 5. **income**
    - Displays the total income.
 
 6. **income_range <start_date> <end_date>**
-   - Displays the total income within the specified date range.
+   - Displays the total income within given time interval.
 
 7. **balance**
    - Displays the current balance.
+     
+8. **help**
+   - Displays all available commands.
+  
+9. **exit**
+   - Exits the program.
 
 ### Note:
 - Date format does not have to be strictly YYYY-MM-DD.
