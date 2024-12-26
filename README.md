@@ -46,8 +46,8 @@ The **Interactive Finance Tracker** is a command-line, terminal-based applicatio
 2. **Clone the Repository**
    - Clone the repository containing the source code:
      ```bash
-     git clone https://github.com/Kezak1/Interactive-Finance-Analyzer.git
-     cd Interactive-Finance-Analyzer
+     git clone https://github.com/Kezak1/Interactive-Finance-Tracker.git
+     cd Interactive-Finance-Tracker
      ```
 
 3. **Build the Project**
