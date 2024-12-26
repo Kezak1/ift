@@ -91,6 +91,6 @@ let rec main_loop logs =
   )
 let () =
   let logs = read_csv "large_logs.csv" in
-  Printf.printf "WELCOME TO IDT!\n";
+  Printf.printf "WELCOME TO IFT!\n";
   Printf.printf "enter a command (type 'help' for a list of available commands):\n";
   main_loop logs
