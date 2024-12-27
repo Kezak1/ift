@@ -40,7 +40,7 @@ The **Interactive Finance Tracker** is a command-line, terminal-based applicatio
      - Recomment to follow [this guide](https://cs3110.github.io/textbook/chapters/preface/install.html) for installation instructions.
    - Install the **Csv** library for OCaml:
      ```bash
-     opam install csv
+     opam install csv csv-lwt
      ```
 
 2. **Clone the Repository**
