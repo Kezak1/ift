@@ -1,4 +1,4 @@
-# Interactive Finance Tracker
+# Personal finance tracker
 
 ---
 
