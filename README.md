@@ -4,7 +4,7 @@
 
 ## **Overview**
 
-The **Interactive Finance Tracker** is a command-line, terminal-based application designed to process personal spending stored in CSV format. It provides users with statistics about their income, expenses, and balance. Users can choose which statistic to display using specific commands.
+The **Personal Finance Tracker** is a command-line, terminal-based application designed to process personal spending stored in CSV format. It provides users with statistics about their income, expenses, and balance. Users can choose which statistic to display using specific commands.
 
 ---
 
