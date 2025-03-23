@@ -46,7 +46,7 @@ The **Personal Finance Tracker** is a command-line, terminal-based application d
 2. **Clone the Repository**
    - Clone the repository containing the source code:
      ```bash
-     git@github.com:Kezak1/pft.git
+     git clone git@github.com:Kezak1/pft.git
      cd pft
      ```
 
@@ -79,7 +79,7 @@ The **Personal Finance Tracker** is a command-line, terminal-based application d
 2. **Execute the Program**
    - Run the program using Dune:
      ```bash
-     dune exec main.exe
+     dune exec main
      ```
 
 3. **Interact Using Commands**

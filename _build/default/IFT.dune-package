@@ -1,4 +1,0 @@
-(lang dune 3.17)
-(name IFT)
-(sections (lib .) (bin ../../bin) (doc ../../doc/IFT))
-(files (lib (META dune-package opam)) (bin (IFT main.exe)) (doc (README.md)))
